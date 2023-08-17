@@ -7,6 +7,7 @@ root.render(
   <React.StrictMode>
     <App />
     <h1>Sarrrr</h1>
+    <h2>sdnsudfnbsa</h2>
   </React.StrictMode>
 );
 
