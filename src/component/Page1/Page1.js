@@ -8,8 +8,8 @@ const Main = () => {
       <div className="overlay"></div>
       <video className='main1' src={uzbekistan} autoPlay loop muted/>
       <div className="content">
-        <h1>O'zbegim Travel bilan </h1>
-        <h2>O'zbekistonda Sayohat qiling </h2>
+        <h1>O'zbegim Travelga Xush Kelibsiz </h1>
+        <p>O'zbekistonning istalgan hududida biz bilan birga sayohat qiling</p>
       </div>
     </div>
   )

@@ -11,7 +11,7 @@ function Spinners() {
     setLoading(true)
     setTimeout(() => {
       setLoading(false)
-    }, 6500)
+    }, 1000)
   }, [])
 
   return (
